@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514183842715",
+    "project_id": "sukanya-samriddhi-yojana-6e549",
+    "storage_bucket": "sukanya-samriddhi-yojana-6e549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514183842715:android:3edb36cf4d22e597c8ef3e",
+        "android_client_info": {
+          "package_name": "com.example.post_elite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Hj4xVQhshjmUam5m2hyqCnmJALrm3fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
